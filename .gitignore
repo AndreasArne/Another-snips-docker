@@ -1,0 +1,6 @@
+# exclude everything
+local_files/*
+config/*
+
+# exception to the rule
+!local_files/.gitkeep
